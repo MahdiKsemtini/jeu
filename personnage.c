@@ -109,7 +109,3 @@ SDL_Delay(300);
 perso->position_personnage.y+=60;
 perso->position_personnage.x+=70;}
 
-void deplacer_personnage_bas (personnage *perso){
-perso->position_personnage.y+=60;
-perso->position_personnage.x+=70;}
-

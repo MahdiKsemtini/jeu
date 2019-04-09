@@ -33,6 +33,5 @@ void affichage_pause(SDL_Surface *screen,image *pause);
 void deplacer_personnage_droite (SDL_Surface *screen,personnage *perso, background *level);
 void deplacer_personnage_gauche (SDL_Surface *screen,personnage *perso, background *level);
 void deplacer_personnage_haut (SDL_Surface *screen,personnage *perso, background *level);
-void deplacer_personnage_bas (personnage *perso);
 
 #endif
